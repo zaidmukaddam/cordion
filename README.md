@@ -27,6 +27,6 @@ These are the frameworks and libraries used in this project
 - [Material UI](https://material-ui.com/)
 - [DraftJS](https://draftjs.org/)
 
-> Live at: [Cordion](https://cordion.herokuapp.com/)
+> Live at: [Cordion]()
 > <br>
 > Report bugs and issues: [Cordion Issues](https://github.com/Jaagrav/Cordion/issues)
