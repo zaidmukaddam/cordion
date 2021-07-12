@@ -28,5 +28,3 @@ These are the frameworks and libraries used in this project
 - [DraftJS](https://draftjs.org/)
 
 > Live at: [Cordion]()
-> <br>
-> Report bugs and issues: [Cordion Issues](https://github.com/Jaagrav/Cordion/issues)
