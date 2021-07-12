@@ -1,0 +1,38 @@
+* {
+  font-family: "Google Sans", sans-serif;
+  text-decoration: none;
+  margin: 0;
+}
+
+.App {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 70px 1fr;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  top: 0;
+  left: 0;
+}
+
+.home-page {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 350px calc(100% - 350px);
+  overflow: hidden;
+}
+
+.icon {
+  color: #fff;
+  margin: auto;
+}
+
+@media (max-width: 576px) {
+  .App {
+    grid-template-columns: 50px 1fr;
+  }
+  .home-page {
+    grid-template-columns: 1fr 0;
+  }
+}
