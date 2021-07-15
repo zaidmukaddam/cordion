@@ -27,4 +27,4 @@ These are the frameworks and libraries used in this project
 - [Material UI](https://material-ui.com/)
 - [DraftJS](https://draftjs.org/)
 
-> Live at: [Cordion]()
+> Live at: [Cordion](cordion-seven.vercel.app)
